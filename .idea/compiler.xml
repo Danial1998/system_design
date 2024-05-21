@@ -6,7 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="system_design" />
+        <module name="solid_principles" />
+        <module name="hld" />
+        <module name="lld" />
+        <module name="strategy_design_pattern" />
       </profile>
     </annotationProcessing>
   </component>
