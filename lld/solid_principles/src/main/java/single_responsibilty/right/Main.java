@@ -3,6 +3,8 @@ package single_responsibilty.right;
 import single_responsibilty.right.SalaryCalculator;
 import single_responsibilty.right.employee_correct;
 
+//Definition - Each class should be responsible for a single action. Not more than a single action
+
 public class Main {
     public static void main(String[] args) {
         // Create an employee
