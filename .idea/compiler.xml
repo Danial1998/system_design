@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="solid_principles" />
         <module name="hld" />
+        <module name="observer_design_pattern" />
         <module name="lld" />
         <module name="strategy_design_pattern" />
       </profile>
