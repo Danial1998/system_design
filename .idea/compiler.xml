@@ -10,6 +10,7 @@
         <module name="hld" />
         <module name="observer_design_pattern" />
         <module name="lld" />
+        <module name="decorator_design_pattern" />
         <module name="strategy_design_pattern" />
       </profile>
     </annotationProcessing>
