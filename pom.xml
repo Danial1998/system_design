@@ -15,6 +15,7 @@
         <module>lld/strategy_design_pattern</module>
         <module>lld/observer_design_pattern</module>
         <module>lld/decorator_design_pattern</module>
+        <module>lld/factory_pattern</module>
     </modules>
 
     <properties>
