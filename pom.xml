@@ -16,6 +16,7 @@
         <module>lld/observer_design_pattern</module>
         <module>lld/decorator_design_pattern</module>
         <module>lld/factory_pattern</module>
+        <module>lld/parkingLot_design</module>
     </modules>
 
     <properties>

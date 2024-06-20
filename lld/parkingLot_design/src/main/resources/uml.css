@@ -1,0 +1,78 @@
++------------------+
+|  Vehicle         |
++------------------+
+| - type: String   |
+| - regNo: String  |
+| - color: String  |
++------------------+
+| + Vehicle()      |
+| + getType()      |
+| + getRegNo()     |
+| + getColor()     |
++------------------+
+
++------------------+
+|  ParkingSlot     |
++------------------+
+| - slotNumber: int|
+| - slotType: String|
+| - parkedVehicle: Vehicle|
++------------------+
+| + ParkingSlot()  |
+| + isFree()       |
+| + canPark()      |
+| + park()         |
+| + unpark()       |
+| + getSlotNumber()|
+| + getVehicleType()|
++------------------+
+
++------------------+
+|  Ticket          |
++------------------+
+| - ticketId: String|
++------------------+
+| + Ticket()       |
+| + getTicketId()  |
++------------------+
+
++------------------+
+|  Floor           |
++------------------+
+| - floorNumber: int|
+| - slots: List<ParkingSlot>|
++------------------+
+| + Floor()        |
+| + parkVehicle()  |
+| + unparkVehicle()|
+| + displayFreeCount()|
+| + displayFreeSlots()|
+| + displayOccupiedSlots()|
++------------------+
+
++------------------+
+|  ParkingLot      |
++------------------+
+| - parkingLotId: String|
+| - floors: List<Floor>|
++------------------+
+| + ParkingLot()   |
+| + parkVehicle()  |
+| + unparkVehicle()|
+| + displayFreeCount()|
+| + displayFreeSlots()|
+| + displayOccupiedSlots()|
++------------------+
+
++------------------+
+|  ParkingLotSystem|
++------------------+
+| - parkingLots: Map<String, ParkingLot>|
++------------------+
+| + main()         |
+| + executeCommand()|
+| + createParkingLot()|
+| + parkVehicle()  |
+| + unparkVehicle()|
+| + display()      |
++------------------+
