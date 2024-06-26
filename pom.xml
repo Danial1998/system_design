@@ -17,6 +17,7 @@
         <module>lld/decorator_design_pattern</module>
         <module>lld/factory_pattern</module>
         <module>lld/parkingLot_design</module>
+        <module>lld/tic_tac_toe</module>
     </modules>
 
     <properties>

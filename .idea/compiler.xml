@@ -14,6 +14,7 @@
         <module name="parkingLot_design" />
         <module name="observer_design_pattern" />
         <module name="strategy_design_pattern" />
+        <module name="tic_tac_toe" />
       </profile>
     </annotationProcessing>
   </component>
