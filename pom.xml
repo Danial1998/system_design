@@ -18,6 +18,7 @@
         <module>lld/factory_pattern</module>
         <module>lld/parkingLot_design</module>
         <module>lld/tic_tac_toe</module>
+        <module>lld/split_wise_design</module>
     </modules>
 
     <properties>
