@@ -19,6 +19,7 @@
         <module>lld/parkingLot_design</module>
         <module>lld/tic_tac_toe</module>
         <module>lld/split_wise_design</module>
+        <module>lld/logging_system</module>
     </modules>
 
     <properties>

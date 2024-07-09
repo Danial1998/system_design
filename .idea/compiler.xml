@@ -13,6 +13,7 @@
         <module name="lld" />
         <module name="decorator_design_pattern" />
         <module name="parkingLot_design" />
+        <module name="logging_system" />
         <module name="observer_design_pattern" />
         <module name="strategy_design_pattern" />
         <module name="tic_tac_toe" />
