@@ -1,0 +1,11 @@
+User - {id,name}
+
+Vehicle - {regNo, type, status}
+
+Reservation - {id, User, Vehicle, fromDate, toDate}
+
+Location - {id, locationName}
+
+Store - {id, Location, List<Vehicle>, List<Reservation>}
+
+RentalSystem - {List<User>, List<Store>}
