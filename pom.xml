@@ -21,6 +21,7 @@
         <module>lld/split_wise_design</module>
         <module>lld/logging_system</module>
         <module>lld/Elevator_design</module>
+        <module>lld/timed_key_value_store</module>
     </modules>
 
     <properties>
