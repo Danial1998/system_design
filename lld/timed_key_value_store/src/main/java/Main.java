@@ -10,5 +10,11 @@ public class Main {
 
         store.put("key4",29.0);
         System.out.println(store.get("key1"));
+
+        //Follow-up question : How will you handle concurrency when multiple clients/threads try to access your key value store ?
+        //1. synchronised locking
+        //2. concurrentHashMap instead of normal Map
+        //3. Re-entrant lock (granular-control)
+        //4. read-write lock (if read-write operations are high)
     }
 }
