@@ -14,11 +14,14 @@
         <module name="logging_system" />
         <module name="observer_design_pattern" />
         <module name="Elevator_design" />
+        <module name="singleTon_class" />
         <module name="strategy_design_pattern" />
         <module name="tic_tac_toe" />
+        <module name="tail_n_command" />
         <module name="timed_key_value_store" />
         <module name="decorator_design_pattern" />
         <module name="parkingLot_design" />
+        <module name="vending_machine" />
       </profile>
     </annotationProcessing>
   </component>

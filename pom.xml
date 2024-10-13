@@ -22,6 +22,9 @@
         <module>lld/logging_system</module>
         <module>lld/Elevator_design</module>
         <module>lld/timed_key_value_store</module>
+        <module>lld/tail_n_command</module>
+        <module>lld/vending_machine</module>
+        <module>lld/singleTon_class</module>
     </modules>
 
     <properties>
