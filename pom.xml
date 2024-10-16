@@ -25,6 +25,7 @@
         <module>lld/tail_n_command</module>
         <module>lld/vending_machine</module>
         <module>lld/singleTon_class</module>
+        <module>lld/RateLiimiter</module>
     </modules>
 
     <properties>
