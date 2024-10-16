@@ -13,6 +13,7 @@
         <module name="split_wise_design" />
         <module name="lld" />
         <module name="logging_system" />
+        <module name="stock_exchange" />
         <module name="observer_design_pattern" />
         <module name="Elevator_design" />
         <module name="singleTon_class" />
@@ -22,7 +23,9 @@
         <module name="timed_key_value_store" />
         <module name="decorator_design_pattern" />
         <module name="parkingLot_design" />
+        <module name="ATM" />
         <module name="vending_machine" />
+        <module name="Cache" />
       </profile>
     </annotationProcessing>
   </component>

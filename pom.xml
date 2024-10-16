@@ -26,6 +26,9 @@
         <module>lld/vending_machine</module>
         <module>lld/singleTon_class</module>
         <module>lld/RateLiimiter</module>
+        <module>lld/ATM</module>
+        <module>lld/Cache</module>
+        <module>lld/stock_exchange</module>
     </modules>
 
     <properties>
