@@ -29,6 +29,7 @@
         <module>lld/ATM</module>
         <module>lld/Cache</module>
         <module>lld/stock_exchange</module>
+        <module>lld/book_my_show</module>
     </modules>
 
     <properties>

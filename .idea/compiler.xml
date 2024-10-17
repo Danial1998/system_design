@@ -14,6 +14,7 @@
         <module name="lld" />
         <module name="logging_system" />
         <module name="stock_exchange" />
+        <module name="book_my_show" />
         <module name="observer_design_pattern" />
         <module name="Elevator_design" />
         <module name="singleTon_class" />
