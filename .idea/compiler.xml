@@ -28,6 +28,7 @@
         <module name="ATM" />
         <module name="vending_machine" />
         <module name="Cache" />
+        <module name="fantasy_premier_league" />
       </profile>
     </annotationProcessing>
   </component>

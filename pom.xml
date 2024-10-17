@@ -31,6 +31,7 @@
         <module>lld/stock_exchange</module>
         <module>lld/book_my_show</module>
         <module>lld/RedBus</module>
+        <module>lld/fantasy_premier_league</module>
     </modules>
 
     <properties>
