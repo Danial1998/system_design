@@ -11,6 +11,7 @@
         <module name="RateLiimiter" />
         <module name="factory_pattern" />
         <module name="split_wise_design" />
+        <module name="RedBus" />
         <module name="lld" />
         <module name="logging_system" />
         <module name="stock_exchange" />
