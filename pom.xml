@@ -32,6 +32,8 @@
         <module>lld/book_my_show</module>
         <module>lld/RedBus</module>
         <module>lld/fantasy_premier_league</module>
+        <module>lld/Amazon_locker_service</module>
+        <module>lld/Rate_Limiter</module>
     </modules>
 
     <properties>
