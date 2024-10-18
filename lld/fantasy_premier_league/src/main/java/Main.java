@@ -23,12 +23,12 @@ public class Main {
         List<Player> matchPlayers = Arrays.asList(player1, player2);
         Match match = new Match("Team A", "Team B", matchPlayers);
 
+        // Add Match to FantasyLeague
+        fantasyLeague.addMatch(match);
+
         // Update Player Stats
         match.updatePlayerStats("Player 1", 10);  // Player 1 scored 10 points
         match.updatePlayerStats("Player 2", 7);   // Player 2 scored 7 points
-
-        // Add Match to FantasyLeague
-        fantasyLeague.addMatch(match);
 
         // Calculate Points and Display Leaderboard
         fantasyLeague.calculateUserPoints();

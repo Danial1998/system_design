@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 
 public class FantasyLeague {
@@ -33,6 +34,7 @@ public class FantasyLeague {
     }
 
     public void showLeaderboard() {
+        users.sort(Comparator.comparingInt(User::getTotalPoints).reversed());
         for (User user : users) {
             System.out.println(user.getName() + " - Total Points: " + user.getTotalPoints());
         }
