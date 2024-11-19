@@ -9,6 +9,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/lld/RateLiimiter/pom.xml" />
         <option value="$PROJECT_DIR$/solid_principles/pom.xml" />
       </set>
     </option>
