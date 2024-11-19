@@ -21,6 +21,7 @@
         <module name="decorator_design_pattern" />
         <module name="vending_machine" />
         <module name="hld" />
+        <module name="factory" />
         <module name="RedBus" />
         <module name="lld" />
         <module name="singleTon_class" />

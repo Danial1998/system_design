@@ -32,6 +32,7 @@
         <module>lld/fantasy_premier_league</module>
         <module>lld/Amazon_locker_service</module>
         <module>lld/Rate_Limiter</module>
+        <module>lld/factory</module>
     </modules>
 
     <properties>
