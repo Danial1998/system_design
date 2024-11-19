@@ -17,12 +17,10 @@
         <module name="strategy_design_pattern" />
         <module name="tic_tac_toe" />
         <module name="tail_n_command" />
-        <module name="builder_pattern" />
         <module name="Rate_Limiter" />
         <module name="decorator_design_pattern" />
         <module name="vending_machine" />
         <module name="hld" />
-        <module name="factory_pattern" />
         <module name="RedBus" />
         <module name="lld" />
         <module name="singleTon_class" />
@@ -34,6 +32,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="builder_pattern" target="18" />
+      <module name="factory_pattern" target="18" />
       <module name="RateLiimiter" target="18" />
     </bytecodeTargetLevel>
   </component>

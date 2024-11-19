@@ -15,7 +15,6 @@
         <module>lld/strategy_design_pattern</module>
         <module>lld/observer_design_pattern</module>
         <module>lld/decorator_design_pattern</module>
-        <module>lld/factory_pattern</module>
         <module>lld/parkingLot_design</module>
         <module>lld/tic_tac_toe</module>
         <module>lld/split_wise_design</module>
@@ -25,7 +24,6 @@
         <module>lld/tail_n_command</module>
         <module>lld/vending_machine</module>
         <module>lld/singleTon_class</module>
-        <module>lld/RateLiimiter</module>
         <module>lld/ATM</module>
         <module>lld/Cache</module>
         <module>lld/stock_exchange</module>
