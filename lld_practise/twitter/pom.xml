@@ -5,16 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.systemdesign</groupId>
-        <artifactId>system_design</artifactId>
+        <artifactId>lld_practise</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>lld_practise</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>car_rental_system</module>
-        <module>twitter</module>
-    </modules>
+    <artifactId>twitter</artifactId>
 
     <properties>
         <maven.compiler.source>18</maven.compiler.source>

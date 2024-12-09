@@ -17,6 +17,7 @@
         <module name="strategy_design_pattern" />
         <module name="tic_tac_toe" />
         <module name="car_rental_system" />
+        <module name="twitter" />
         <module name="decorator_design_pattern" />
         <module name="parkingLot_design" />
       </profile>
